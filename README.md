@@ -139,16 +139,19 @@ I've worked extensively with GTM data in Salesforce since 2016, utilizing variou
                 - Use Star Schemas
                 - Use few Calculated Columns
                 - Writing DAX for Measures
-                    - ARR = SUM('OpportunityLineItem'[ARR_FixedRate_USD__c])
-                    - New Bookings = 
-                        CALCULATE(
-                            [ARR],
-                            FILTER(
-                                'Opportunity',
-                                'Opportunity'[StageName] = "Closed Won" &&
-                                'Opportunity'[Opportunity Type] = "New"
-                            )
-                        )
+```
+ARR = SUM('OpportunityLineItem'[ARR_FixedRate_USD__c])
+
+New Bookings = 
+    CALCULATE(
+        [ARR],
+        FILTER(
+            'Opportunity',
+            'Opportunity'[StageName] = "Closed Won" &&
+            'Opportunity'[Opportunity Type] = "New"
+        )
+    )
+```
         - Created Data Dictionary for Business KPIs in Sharepoint Site
             - Mostly Salesforce Reporting Filter Logic
                 - Remove Test/Internal Accounts
