@@ -133,7 +133,7 @@ I've worked extensively with GTM data in Salesforce since 2016, utilizing variou
                 - Run SOQL Queries
                 - View Object Data like Fields and Formulas
             - Requirements gathering
-                - Stakeholders don't always know what they want :) 
+                - Stakeholders don't always know what they want :scream: :smile:
         - Build their PowerBI Skills
             - Modeling
                 - Use Star Schemas
