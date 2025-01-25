@@ -139,9 +139,11 @@ I've worked extensively with GTM data in Salesforce since 2016, utilizing variou
                 - Use Star Schemas
                 - Use few Calculated Columns
                 - Writing DAX for Measures
-                
+
                 ```
                 ARR = SUM('OpportunityLineItem'[ARR_FixedRate_USD__c])
+                ```
+                ```
                 New Bookings = 
                     CALCULATE(
                         [ARR],
