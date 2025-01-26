@@ -1,0 +1,103 @@
+,,,players_used,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,url
+,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
+league,season,team,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1819,Arsenal,28,38,69,462,159,34.4,12.16,4.18,0.14,0.41,16.7,11,4,5,60.1,56.0,0.12,8.9,9.0,/en/squads/18bb7c10/2018-2019/Arsenal-Stats
+ENG-Premier League,1819,Bournemouth,28,38,55,437,153,35.0,11.5,4.03,0.11,0.31,17.4,16,7,9,53.3,46.2,0.11,1.7,1.8,/en/squads/4ba7cbea/2018-2019/Bournemouth-Stats
+ENG-Premier League,1819,Brighton,21,38,35,364,99,27.2,9.58,2.61,0.08,0.3,17.9,12,5,6,35.3,30.7,0.09,-0.3,-0.7,/en/squads/d07537b9/2018-2019/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,1819,Burnley,23,38,43,358,112,31.3,9.42,2.95,0.11,0.37,15.8,14,2,2,44.4,42.8,0.12,-1.4,-1.8,/en/squads/943e8050/2018-2019/Burnley-Stats
+ENG-Premier League,1819,Cardiff City,25,38,33,413,113,27.4,10.87,2.97,0.07,0.27,17.7,13,3,4,42.4,39.2,0.1,-9.4,-9.2,/en/squads/75fae011/2018-2019/Cardiff-City-Stats
+ENG-Premier League,1819,Chelsea,24,38,61,602,192,31.9,15.84,5.05,0.09,0.29,17.8,30,5,5,58.6,54.6,0.09,2.4,1.4,/en/squads/cff3d9bb/2018-2019/Chelsea-Stats
+ENG-Premier League,1819,Crystal Palace,26,38,48,482,135,28.0,12.68,3.55,0.08,0.28,18.4,16,10,11,47.6,39.2,0.08,0.4,-1.2,/en/squads/47c64c55/2018-2019/Crystal-Palace-Stats
+ENG-Premier League,1819,Everton,23,38,53,493,163,33.1,12.97,4.29,0.1,0.31,16.9,20,2,5,49.7,45.7,0.1,3.3,5.3,/en/squads/d3fd31cc/2018-2019/Everton-Stats
+ENG-Premier League,1819,Fulham,28,38,33,451,140,31.0,11.87,3.68,0.07,0.22,19.0,10,2,3,41.3,39.0,0.09,-8.3,-8.0,/en/squads/fd962109/2018-2019/Fulham-Stats
+ENG-Premier League,1819,Huddersfield,31,38,21,400,116,29.0,10.53,3.05,0.05,0.17,19.1,15,1,1,28.8,28.0,0.07,-7.8,-8.0,/en/squads/f5922ca5/2018-2019/Huddersfield-Town-Stats
+ENG-Premier League,1819,Leicester City,25,38,48,508,173,34.1,13.37,4.55,0.08,0.25,18.6,19,5,7,52.4,47.3,0.1,-4.4,-4.3,/en/squads/a2d435b3/2018-2019/Leicester-City-Stats
+ENG-Premier League,1819,Liverpool,23,38,86,568,211,37.1,14.95,5.55,0.14,0.37,17.0,20,7,7,73.7,68.4,0.12,12.3,10.6,/en/squads/822bd0ba/2018-2019/Liverpool-Stats
+ENG-Premier League,1819,Manchester City,21,38,91,679,252,37.1,17.87,6.63,0.13,0.35,16.9,21,3,4,84.3,81.3,0.12,6.7,6.7,/en/squads/b8fd03ef/2018-2019/Manchester-City-Stats
+ENG-Premier League,1819,Manchester Utd,28,38,65,514,210,40.9,13.53,5.53,0.11,0.27,18.7,27,9,12,61.4,52.0,0.1,3.6,4.0,/en/squads/19538871/2018-2019/Manchester-United-Stats
+ENG-Premier League,1819,Newcastle Utd,24,38,41,443,136,30.7,11.66,3.58,0.09,0.29,18.8,16,1,3,39.1,36.7,0.09,1.9,3.3,/en/squads/b2b47a98/2018-2019/Newcastle-United-Stats
+ENG-Premier League,1819,Southampton,30,38,44,479,155,32.4,12.61,4.08,0.08,0.26,18.9,20,4,5,46.9,43.4,0.1,-2.9,-3.4,/en/squads/33c895d4/2018-2019/Southampton-Stats
+ENG-Premier League,1819,Tottenham,28,38,66,533,182,34.1,14.03,4.79,0.12,0.34,18.1,23,4,4,54.9,51.8,0.1,11.1,10.2,/en/squads/361ca564/2018-2019/Tottenham-Hotspur-Stats
+ENG-Premier League,1819,Watford,25,38,51,436,148,33.9,11.47,3.89,0.11,0.34,17.3,22,1,1,48.2,47.5,0.11,2.8,2.5,/en/squads/2abfe087/2018-2019/Watford-Stats
+ENG-Premier League,1819,West Ham,26,38,51,436,149,34.2,11.47,3.92,0.11,0.31,17.2,17,5,5,47.6,43.8,0.1,3.4,2.2,/en/squads/7c21e445/2018-2019/West-Ham-United-Stats
+ENG-Premier League,1819,Wolves,21,38,46,473,144,30.4,12.45,3.79,0.09,0.29,17.7,12,4,4,52.1,49.0,0.11,-6.1,-7.0,/en/squads/8cec06e1/2018-2019/Wolverhampton-Wanderers-Stats
+ENG-Premier League,1920,Arsenal,29,38,56,403,146,36.2,10.61,3.84,0.13,0.36,16.4,19,3,3,47.0,44.6,0.11,9.0,8.4,/en/squads/18bb7c10/2019-2020/Arsenal-Stats
+ENG-Premier League,1920,Aston Villa,28,38,40,453,147,32.5,11.92,3.87,0.09,0.27,17.5,21,1,3,44.3,41.8,0.09,-4.3,-2.8,/en/squads/8602292d/2019-2020/Aston-Villa-Stats
+ENG-Premier League,1920,Bournemouth,27,38,38,385,117,30.4,10.13,3.08,0.09,0.29,17.3,21,4,4,44.8,41.7,0.11,-6.8,-7.7,/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats
+ENG-Premier League,1920,Brighton,25,38,35,460,139,30.2,12.11,3.66,0.07,0.24,17.6,11,1,2,45.4,43.8,0.1,-10.4,-9.8,/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,1920,Burnley,22,38,41,384,124,32.3,10.11,3.26,0.1,0.31,16.4,18,3,3,47.4,45.3,0.12,-6.4,-7.3,/en/squads/943e8050/2019-2020/Burnley-Stats
+ENG-Premier League,1920,Chelsea,27,38,69,618,210,34.0,16.26,5.53,0.1,0.3,16.6,29,7,7,69.2,64.4,0.11,-0.2,-2.4,/en/squads/cff3d9bb/2019-2020/Chelsea-Stats
+ENG-Premier League,1920,Crystal Palace,25,38,29,373,115,30.8,9.82,3.03,0.07,0.23,17.0,15,3,3,35.8,33.6,0.09,-6.8,-7.6,/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats
+ENG-Premier League,1920,Everton,24,38,42,468,159,34.0,12.32,4.18,0.09,0.26,16.4,20,1,1,50.8,50.0,0.11,-8.8,-9.0,/en/squads/d3fd31cc/2019-2020/Everton-Stats
+ENG-Premier League,1920,Leicester City,24,38,65,533,183,34.3,14.03,4.82,0.11,0.33,17.4,20,5,7,62.2,56.7,0.11,2.8,3.3,/en/squads/a2d435b3/2019-2020/Leicester-City-Stats
+ENG-Premier League,1920,Liverpool,24,38,83,586,224,38.2,15.42,5.89,0.13,0.35,16.5,20,5,5,68.9,65.0,0.11,14.1,13.0,/en/squads/822bd0ba/2019-2020/Liverpool-Stats
+ENG-Premier League,1920,Manchester City,24,38,100,735,250,34.0,19.34,6.58,0.13,0.38,16.4,27,6,11,92.0,83.6,0.12,8.0,10.4,/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats
+ENG-Premier League,1920,Manchester Utd,29,38,65,530,201,37.9,13.95,5.29,0.1,0.27,19.1,33,10,14,62.2,51.2,0.1,2.8,3.8,/en/squads/19538871/2019-2020/Manchester-United-Stats
+ENG-Premier League,1920,Newcastle Utd,28,38,38,398,132,33.2,10.47,3.47,0.1,0.29,19.1,14,0,1,35.5,34.8,0.09,2.5,3.2,/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats
+ENG-Premier League,1920,Norwich City,30,38,25,407,126,31.0,10.71,3.32,0.06,0.18,18.0,16,2,2,37.0,35.4,0.09,-12.0,-12.4,/en/squads/1c781004/2019-2020/Norwich-City-Stats
+ENG-Premier League,1920,Sheffield Utd,26,38,36,352,109,31.0,9.26,2.87,0.1,0.32,15.2,4,1,1,43.0,42.2,0.12,-7.0,-7.2,/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats
+ENG-Premier League,1920,Southampton,25,38,51,494,171,34.6,13.0,4.5,0.1,0.29,17.8,27,2,5,56.1,52.1,0.11,-5.1,-3.1,/en/squads/33c895d4/2019-2020/Southampton-Stats
+ENG-Premier League,1920,Tottenham,29,38,56,440,154,35.0,11.58,4.05,0.12,0.34,18.4,21,3,4,47.9,44.7,0.1,8.1,8.3,/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats
+ENG-Premier League,1920,Watford,26,38,35,416,112,26.9,10.95,2.95,0.07,0.25,17.3,18,7,8,48.9,42.6,0.1,-13.9,-14.6,/en/squads/2abfe087/2019-2020/Watford-Stats
+ENG-Premier League,1920,West Ham,29,38,49,413,156,37.8,10.87,4.11,0.11,0.29,16.4,13,4,4,48.6,45.4,0.11,0.4,-0.4,/en/squads/7c21e445/2019-2020/West-Ham-United-Stats
+ENG-Premier League,1920,Wolves,21,38,49,457,142,31.1,12.03,3.74,0.1,0.32,17.4,13,4,4,54.1,51.0,0.11,-5.1,-6.0,/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats
+ENG-Premier League,2021,Arsenal,29,38,53,453,140,30.9,11.92,3.68,0.1,0.34,17.7,23,6,6,51.8,47.0,0.11,1.2,0.0,/en/squads/18bb7c10/2020-2021/Arsenal-Stats
+ENG-Premier League,2021,Aston Villa,24,38,52,514,178,34.6,13.53,4.68,0.09,0.26,17.3,16,5,6,52.5,47.9,0.1,-0.5,-0.9,/en/squads/8602292d/2020-2021/Aston-Villa-Stats
+ENG-Premier League,2021,Brighton,27,38,39,478,134,28.0,12.58,3.53,0.07,0.25,17.4,15,6,9,50.9,43.8,0.09,-11.9,-10.8,/en/squads/d07537b9/2020-2021/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2021,Burnley,25,38,32,381,124,32.5,10.03,3.26,0.08,0.23,17.4,15,3,3,39.3,36.9,0.1,-7.3,-7.9,/en/squads/943e8050/2020-2021/Burnley-Stats
+ENG-Premier League,2021,Chelsea,27,38,56,546,193,35.3,14.37,5.08,0.09,0.25,17.1,16,8,10,62.4,54.5,0.1,-6.4,-6.5,/en/squads/cff3d9bb/2020-2021/Chelsea-Stats
+ENG-Premier League,2021,Crystal Palace,24,38,39,345,127,36.8,9.08,3.34,0.1,0.28,17.6,18,3,4,34.1,31.0,0.09,4.9,5.0,/en/squads/47c64c55/2020-2021/Crystal-Palace-Stats
+ENG-Premier League,2021,Everton,29,38,45,395,143,36.2,10.39,3.76,0.1,0.29,17.2,15,4,5,45.7,41.9,0.11,-0.7,-0.9,/en/squads/d3fd31cc/2020-2021/Everton-Stats
+ENG-Premier League,2021,Fulham,28,38,26,436,125,28.7,11.47,3.29,0.05,0.18,18.3,12,3,6,40.5,35.9,0.08,-14.5,-12.9,/en/squads/fd962109/2020-2021/Fulham-Stats
+ENG-Premier League,2021,Leeds United,23,38,60,518,193,37.3,13.63,5.08,0.11,0.29,16.9,9,4,4,55.6,52.5,0.1,4.4,3.5,/en/squads/5bfb9659/2020-2021/Leeds-United-Stats
+ENG-Premier League,2021,Leicester City,27,38,64,473,170,35.9,12.45,4.47,0.11,0.32,18.6,20,10,12,55.8,46.3,0.1,8.2,7.7,/en/squads/a2d435b3/2020-2021/Leicester-City-Stats
+ENG-Premier League,2021,Liverpool,28,38,65,602,204,33.9,15.84,5.37,0.1,0.29,17.1,22,6,6,67.5,62.9,0.11,-2.5,-3.9,/en/squads/822bd0ba/2020-2021/Liverpool-Stats
+ENG-Premier League,2021,Manchester City,24,38,82,590,211,35.8,15.53,5.55,0.13,0.36,17.2,21,5,9,68.2,61.2,0.11,13.8,15.8,/en/squads/b8fd03ef/2020-2021/Manchester-City-Stats
+ENG-Premier League,2021,Manchester Utd,29,38,70,515,196,38.1,13.55,5.16,0.12,0.31,18.1,21,10,11,60.1,51.4,0.1,9.9,8.6,/en/squads/19538871/2020-2021/Manchester-United-Stats
+ENG-Premier League,2021,Newcastle Utd,27,38,44,390,130,33.3,10.26,3.42,0.1,0.29,18.3,25,6,7,43.4,37.8,0.1,0.6,0.2,/en/squads/b2b47a98/2020-2021/Newcastle-United-Stats
+ENG-Premier League,2021,Sheffield Utd,27,38,19,319,92,28.8,8.39,2.42,0.05,0.17,17.7,5,3,4,32.6,29.5,0.09,-13.6,-13.5,/en/squads/1df6b87e/2020-2021/Sheffield-United-Stats
+ENG-Premier League,2021,Southampton,29,38,47,418,157,37.6,11.0,4.13,0.1,0.27,18.6,20,5,6,41.2,36.6,0.09,5.8,5.4,/en/squads/33c895d4/2020-2021/Southampton-Stats
+ENG-Premier League,2021,Tottenham,24,38,66,438,167,38.1,11.53,4.39,0.14,0.37,18.0,35,5,5,53.1,49.2,0.12,12.9,11.8,/en/squads/361ca564/2020-2021/Tottenham-Hotspur-Stats
+ENG-Premier League,2021,West Brom,30,38,33,335,106,31.6,8.82,2.79,0.09,0.27,18.4,16,4,4,35.8,32.7,0.1,-2.8,-3.7,/en/squads/60c6b05f/2020-2021/West-Bromwich-Albion-Stats
+ENG-Premier League,2021,West Ham,24,38,60,464,158,34.1,12.21,4.16,0.13,0.37,16.1,17,2,4,55.4,52.1,0.12,4.6,5.9,/en/squads/7c21e445/2020-2021/West-Ham-United-Stats
+ENG-Premier League,2021,Wolves,27,38,34,459,149,32.5,12.08,3.92,0.07,0.2,18.5,18,4,4,36.5,33.4,0.08,-2.5,-3.4,/en/squads/8cec06e1/2020-2021/Wolverhampton-Wanderers-Stats
+ENG-Premier League,2122,Arsenal,27,38,60,581,186,32.0,15.29,4.89,0.09,0.3,17.8,21,5,8,60.5,55.1,0.1,-0.5,-0.1,/en/squads/18bb7c10/2021-2022/Arsenal-Stats
+ENG-Premier League,2122,Aston Villa,31,38,50,461,159,34.5,12.13,4.18,0.1,0.3,17.6,20,3,3,44.0,42.0,0.09,6.0,5.0,/en/squads/8602292d/2021-2022/Aston-Villa-Stats
+ENG-Premier League,2122,Brentford,29,38,46,436,141,32.3,11.47,3.71,0.09,0.28,16.3,11,6,6,45.8,41.1,0.1,0.2,-1.1,/en/squads/cd051869/2021-2022/Brentford-Stats
+ENG-Premier League,2122,Brighton,26,38,40,482,141,29.3,12.68,3.71,0.07,0.26,17.7,15,4,7,46.2,40.7,0.09,-6.2,-4.7,/en/squads/d07537b9/2021-2022/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2122,Burnley,23,38,32,405,119,29.4,10.66,3.13,0.08,0.26,17.2,14,1,2,39.7,38.1,0.1,-7.7,-7.1,/en/squads/943e8050/2021-2022/Burnley-Stats
+ENG-Premier League,2122,Chelsea,26,38,75,583,200,34.3,15.34,5.26,0.11,0.34,17.4,26,8,9,63.4,56.6,0.1,11.6,10.4,/en/squads/cff3d9bb/2021-2022/Chelsea-Stats
+ENG-Premier League,2122,Crystal Palace,24,38,50,404,140,34.7,10.63,3.68,0.11,0.31,16.1,13,6,8,46.4,40.1,0.1,3.6,3.9,/en/squads/47c64c55/2021-2022/Crystal-Palace-Stats
+ENG-Premier League,2122,Everton,33,38,42,430,130,30.2,11.32,3.42,0.08,0.28,17.7,18,6,7,41.2,35.8,0.08,0.8,0.2,/en/squads/d3fd31cc/2021-2022/Everton-Stats
+ENG-Premier League,2122,Leeds United,29,38,42,480,142,29.6,12.63,3.74,0.08,0.26,18.3,13,5,5,44.4,40.4,0.09,-2.4,-3.4,/en/squads/5bfb9659/2021-2022/Leeds-United-Stats
+ENG-Premier League,2122,Leicester City,28,38,62,433,164,37.9,11.39,4.32,0.14,0.37,17.8,14,2,2,47.8,46.2,0.11,14.2,13.8,/en/squads/a2d435b3/2021-2022/Leicester-City-Stats
+ENG-Premier League,2122,Liverpool,27,38,94,721,237,32.9,18.97,6.24,0.12,0.37,16.7,13,7,8,88.7,82.7,0.12,5.3,4.3,/en/squads/822bd0ba/2021-2022/Liverpool-Stats
+ENG-Premier League,2122,Manchester City,26,38,96,704,237,33.7,18.53,6.24,0.13,0.38,16.3,17,7,9,88.7,81.4,0.12,7.3,7.6,/en/squads/b8fd03ef/2021-2022/Manchester-City-Stats
+ENG-Premier League,2122,Manchester Utd,29,38,56,503,179,35.6,13.24,4.71,0.11,0.3,17.7,19,3,5,55.8,51.9,0.11,0.2,1.1,/en/squads/19538871/2021-2022/Manchester-United-Stats
+ENG-Premier League,2122,Newcastle Utd,29,38,41,446,142,31.8,11.74,3.74,0.09,0.27,18.1,15,3,3,38.1,35.9,0.08,2.9,2.1,/en/squads/b2b47a98/2021-2022/Newcastle-United-Stats
+ENG-Premier League,2122,Norwich City,28,38,21,370,104,28.1,9.74,2.74,0.05,0.17,19.0,18,3,3,32.3,30.0,0.08,-11.3,-12.0,/en/squads/1c781004/2021-2022/Norwich-City-Stats
+ENG-Premier League,2122,Southampton,25,38,41,478,161,33.7,12.58,4.24,0.08,0.23,17.7,24,4,4,44.8,41.6,0.09,-3.8,-4.6,/en/squads/33c895d4/2021-2022/Southampton-Stats
+ENG-Premier League,2122,Tottenham,25,38,63,486,185,38.1,12.79,4.87,0.12,0.31,16.7,16,5,5,61.2,57.3,0.12,1.8,0.7,/en/squads/361ca564/2021-2022/Tottenham-Hotspur-Stats
+ENG-Premier League,2122,Watford,30,38,33,397,123,31.0,10.45,3.24,0.08,0.26,18.1,24,1,2,40.0,38.4,0.1,-7.0,-6.4,/en/squads/2abfe087/2021-2022/Watford-Stats
+ENG-Premier League,2122,West Ham,25,38,58,443,142,32.1,11.66,3.74,0.12,0.38,16.6,13,4,6,51.4,46.8,0.11,6.6,7.2,/en/squads/7c21e445/2021-2022/West-Ham-United-Stats
+ENG-Premier League,2122,Wolves,26,38,35,401,133,33.2,10.55,3.5,0.08,0.26,18.6,13,1,1,37.5,36.8,0.09,-2.5,-2.8,/en/squads/8cec06e1/2021-2022/Wolverhampton-Wanderers-Stats
+ENG-Premier League,2223,Arsenal,26,38,84,589,194,32.9,15.5,5.11,0.14,0.42,16.0,16,3,4,71.9,69.1,0.12,12.1,11.9,/en/squads/18bb7c10/2022-2023/Arsenal-Stats
+ENG-Premier League,2223,Aston Villa,26,38,49,427,145,34.0,11.24,3.82,0.11,0.32,18.0,18,3,4,50.2,47.2,0.11,-1.2,-1.2,/en/squads/8602292d/2022-2023/Aston-Villa-Stats
+ENG-Premier League,2223,Bournemouth,31,38,37,358,126,35.2,9.42,3.32,0.1,0.29,15.5,14,0,0,38.6,38.6,0.11,-1.6,-1.6,/en/squads/4ba7cbea/2022-2023/Bournemouth-Stats
+ENG-Premier League,2223,Brentford,25,38,56,400,147,36.8,10.53,3.87,0.12,0.33,15.7,14,7,8,56.8,50.6,0.13,-0.8,-1.6,/en/squads/cd051869/2022-2023/Brentford-Stats
+ENG-Premier League,2223,Brighton,29,38,68,607,219,36.1,15.97,5.76,0.1,0.28,16.8,12,6,6,73.3,68.9,0.12,-5.3,-6.9,/en/squads/d07537b9/2022-2023/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2223,Chelsea,32,38,37,481,151,31.4,12.66,3.97,0.07,0.23,16.8,10,3,3,49.5,47.2,0.1,-12.5,-13.2,/en/squads/cff3d9bb/2022-2023/Chelsea-Stats
+ENG-Premier League,2223,Crystal Palace,26,38,38,423,133,31.4,11.13,3.5,0.09,0.28,17.6,23,1,3,39.3,36.8,0.09,-1.3,0.2,/en/squads/47c64c55/2022-2023/Crystal-Palace-Stats
+ENG-Premier League,2223,Everton,28,38,32,426,143,33.6,11.21,3.76,0.07,0.2,16.8,12,3,3,45.2,42.8,0.1,-13.2,-13.8,/en/squads/d3fd31cc/2022-2023/Everton-Stats
+ENG-Premier League,2223,Fulham,29,38,52,420,137,32.6,11.05,3.61,0.11,0.34,17.3,17,5,9,46.2,39.1,0.1,5.8,7.9,/en/squads/fd962109/2022-2023/Fulham-Stats
+ENG-Premier League,2223,Leeds United,29,38,45,459,141,30.7,12.08,3.71,0.1,0.31,16.6,19,1,3,47.4,45.0,0.1,-2.4,-1.0,/en/squads/5bfb9659/2022-2023/Leeds-United-Stats
+ENG-Premier League,2223,Leicester City,28,38,49,412,142,34.5,10.84,3.74,0.11,0.32,17.7,14,3,6,50.6,45.8,0.11,-1.6,0.2,/en/squads/a2d435b3/2022-2023/Leicester-City-Stats
+ENG-Premier League,2223,Liverpool,28,38,71,601,203,33.8,15.82,5.34,0.11,0.34,16.2,7,2,4,72.6,69.5,0.12,-1.6,-0.5,/en/squads/822bd0ba/2022-2023/Liverpool-Stats
+ENG-Premier League,2223,Manchester City,24,38,92,590,205,34.7,15.53,5.39,0.14,0.4,16.6,20,9,10,78.6,71.1,0.12,13.4,11.9,/en/squads/b8fd03ef/2022-2023/Manchester-City-Stats
+ENG-Premier League,2223,Manchester Utd,26,38,56,590,206,34.9,15.53,5.42,0.09,0.26,17.8,20,3,3,67.7,65.3,0.11,-11.7,-12.3,/en/squads/19538871/2022-2023/Manchester-United-Stats
+ENG-Premier League,2223,Newcastle Utd,27,38,64,565,184,32.6,14.87,4.84,0.1,0.32,15.6,15,6,6,72.0,67.4,0.12,-8.0,-9.4,/en/squads/b2b47a98/2022-2023/Newcastle-United-Stats
+ENG-Premier League,2223,Nott'ham Forest,33,38,36,362,111,30.7,9.53,2.92,0.09,0.3,17.2,9,3,6,39.3,34.6,0.1,-3.3,-1.6,/en/squads/e4a775cb/2022-2023/Nottingham-Forest-Stats
+ENG-Premier League,2223,Southampton,36,38,36,413,132,32.0,10.87,3.47,0.08,0.26,18.1,17,2,4,37.7,34.5,0.09,-1.7,-0.5,/en/squads/33c895d4/2022-2023/Southampton-Stats
+ENG-Premier League,2223,Tottenham,29,38,68,512,186,36.3,13.47,4.89,0.12,0.34,16.7,13,5,6,57.1,52.4,0.1,10.9,10.6,/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats
+ENG-Premier League,2223,West Ham,25,38,41,466,133,28.5,12.26,3.5,0.08,0.26,17.3,13,6,8,49.2,43.7,0.1,-8.2,-8.7,/en/squads/7c21e445/2022-2023/West-Ham-United-Stats
+ENG-Premier League,2223,Wolves,32,38,28,409,119,29.1,10.76,3.13,0.06,0.21,18.0,18,3,3,36.8,34.5,0.09,-8.8,-9.5,/en/squads/8cec06e1/2022-2023/Wolverhampton-Wanderers-Stats

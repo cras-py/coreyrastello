@@ -1,0 +1,23 @@
+,,,players_used,Age,Playing Time,Playing Time,Playing Time,Playing Time,Playing Time,Starts,Starts,Starts,Subs,Subs,Subs,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),url
+,,,,,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,onxG,onxGA,xG+/-,xG+/-90,
+league,season,team,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,2425,vs Arsenal,23,26.8,17,1530,90,100,17,187,82,115,72,22,81,0.71,16,34,-18,-1.06,15.8,29.3,-13.5,-0.79,/en/squads/18bb7c10/Arsenal-Stats
+ENG-Premier League,2425,vs Aston Villa,23,26.7,17,1530,90,100,17,187,81,113,74,19,79,1.12,26,26,0,0.0,20.2,27.1,-6.9,-0.4,/en/squads/8602292d/Aston-Villa-Stats
+ENG-Premier League,2425,vs Bournemouth,25,27.0,17,1530,90,100,17,187,82,120,66,22,87,1.12,21,27,-6,-0.35,22.3,34.3,-12.0,-0.71,/en/squads/4ba7cbea/Bournemouth-Stats
+ENG-Premier League,2425,vs Brentford,23,27.3,17,1530,90,100,17,187,84,111,74,19,79,1.53,32,32,0,0.0,28.5,26.1,2.4,0.14,/en/squads/cd051869/Brentford-Stats
+ENG-Premier League,2425,vs Brighton,28,26.8,17,1530,90,100,17,187,82,110,75,19,78,1.12,26,27,-1,-0.06,26.8,23.9,2.9,0.17,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2425,vs Chelsea,24,27.0,17,1530,90,100,17,187,83,113,72,22,81,0.65,19,37,-18,-1.06,24.3,35.4,-11.0,-0.65,/en/squads/cff3d9bb/Chelsea-Stats
+ENG-Premier League,2425,vs Crystal Palace,25,26.8,17,1530,90,100,17,187,83,118,68,19,85,1.65,26,18,8,0.47,24.5,23.5,1.1,0.06,/en/squads/47c64c55/Crystal-Palace-Stats
+ENG-Premier League,2425,vs Everton,24,26.9,16,1440,90,100,16,176,85,107,68,19,76,1.56,21,14,7,0.44,21.3,15.8,5.5,0.34,/en/squads/d3fd31cc/Everton-Stats
+ENG-Premier League,2425,vs Fulham,25,27.2,17,1530,90,100,17,187,83,110,76,17,76,1.12,22,24,-2,-0.12,20.4,23.0,-2.6,-0.15,/en/squads/fd962109/Fulham-Stats
+ENG-Premier League,2425,vs Ipswich Town,28,27.2,17,1530,90,100,17,187,83,115,71,17,82,1.94,32,16,16,0.94,35.0,15.9,19.1,1.12,/en/squads/b74092de/Ipswich-Town-Stats
+ENG-Premier League,2425,vs Leicester City,25,26.7,17,1530,90,100,17,187,83,111,76,18,76,1.88,37,21,16,0.94,34.5,17.2,17.3,1.02,/en/squads/a2d435b3/Leicester-City-Stats
+ENG-Premier League,2425,vs Liverpool,23,26.6,16,1440,90,100,16,176,82,108,68,23,76,0.38,16,37,-21,-1.31,16.0,35.2,-19.3,-1.2,/en/squads/822bd0ba/Liverpool-Stats
+ENG-Premier League,2425,vs Manchester City,22,26.8,17,1530,90,100,17,187,85,116,70,18,82,1.24,25,29,-4,-0.24,25.0,30.7,-5.7,-0.34,/en/squads/b8fd03ef/Manchester-City-Stats
+ENG-Premier League,2425,vs Manchester Utd,25,26.9,17,1530,90,100,17,187,81,116,70,19,83,1.47,22,21,1,0.06,24.6,25.4,-0.7,-0.04,/en/squads/19538871/Manchester-United-Stats
+ENG-Premier League,2425,vs Newcastle Utd,22,26.9,17,1530,90,100,17,187,82,114,73,19,79,1.18,21,27,-6,-0.35,21.3,27.6,-6.3,-0.37,/en/squads/b2b47a98/Newcastle-United-Stats
+ENG-Premier League,2425,vs Nott'ham Forest,23,26.9,17,1530,90,100,17,187,81,112,75,17,78,0.94,19,23,-4,-0.24,18.0,20.6,-2.7,-0.16,/en/squads/e4a775cb/Nottingham-Forest-Stats
+ENG-Premier League,2425,vs Southampton,31,26.7,17,1530,90,100,17,187,80,117,69,20,82,2.47,36,11,25,1.47,38.0,17.1,20.9,1.23,/en/squads/33c895d4/Southampton-Stats
+ENG-Premier League,2425,vs Tottenham,25,26.8,17,1530,90,100,17,187,83,118,68,20,85,1.53,25,39,-14,-0.82,28.3,31.8,-3.5,-0.21,/en/squads/361ca564/Tottenham-Hotspur-Stats
+ENG-Premier League,2425,vs West Ham,25,26.6,17,1530,90,100,17,187,80,115,72,19,81,1.53,30,22,8,0.47,29.6,24.7,4.9,0.29,/en/squads/7c21e445/West-Ham-United-Stats
+ENG-Premier League,2425,vs Wolves,24,27.0,17,1530,90,100,17,187,83,115,72,19,81,2.12,40,27,13,0.76,28.0,17.8,10.2,0.6,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats

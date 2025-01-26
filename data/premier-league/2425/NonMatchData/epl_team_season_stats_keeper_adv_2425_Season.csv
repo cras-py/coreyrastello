@@ -1,0 +1,23 @@
+,,,players_used,90s,Goals,Goals,Goals,Goals,Goals,Expected,Expected,Expected,Expected,Launched,Launched,Launched,Passes,Passes,Passes,Passes,Goal Kicks,Goal Kicks,Goal Kicks,Crosses,Crosses,Crosses,Sweeper,Sweeper,Sweeper,url
+,,,,,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att (GK),Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist,
+league,season,team,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,2425,Arsenal,1,17,16,1,1,3,0,15.2,0.24,-0.8,-0.05,84,240,35.0,534,71,35.6,31.5,88,56.8,42.3,194,26,13.4,31,1.82,15.9,/en/squads/18bb7c10/Arsenal-Stats
+ENG-Premier League,2425,Aston Villa,2,17,26,1,1,1,0,22.8,0.31,-3.2,-0.19,72,168,42.9,511,59,25.6,29.6,117,31.6,30.0,220,24,10.9,15,0.88,13.3,/en/squads/8602292d/Aston-Villa-Stats
+ENG-Premier League,2425,Bournemouth,3,17,21,1,0,1,0,28.0,0.32,7.0,0.41,99,221,44.8,386,67,38.3,38.3,128,57.0,43.4,217,10,4.6,26,1.53,13.4,/en/squads/4ba7cbea/Bournemouth-Stats
+ENG-Premier League,2425,Brentford,1,17,32,1,0,1,1,28.6,0.25,-2.4,-0.14,109,274,39.8,665,56,34.3,33.7,144,31.9,31.4,285,18,6.3,21,1.24,12.5,/en/squads/cd051869/Brentford-Stats
+ENG-Premier League,2425,Brighton,2,17,26,2,1,2,1,24.5,0.32,-0.5,-0.03,67,171,39.2,568,75,25.5,25.1,108,24.1,23.3,215,14,6.5,25,1.47,15.4,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2425,Chelsea,2,17,19,3,0,1,0,21.5,0.25,2.5,0.15,44,189,23.3,570,98,29.8,30.6,88,21.6,23.4,171,23,13.5,35,2.06,15.1,/en/squads/cff3d9bb/Chelsea-Stats
+ENG-Premier League,2425,Crystal Palace,1,17,26,0,0,2,2,26.2,0.36,2.2,0.13,56,257,21.8,399,55,49.1,38.4,129,47.3,40.4,248,13,5.2,24,1.41,16.2,/en/squads/47c64c55/Crystal-Palace-Stats
+ENG-Premier League,2425,Everton,1,16,21,0,0,4,0,20.2,0.3,-0.8,-0.05,130,350,37.1,505,64,55.0,42.6,121,59.5,47.6,232,11,4.7,34,2.13,16.6,/en/squads/d3fd31cc/Everton-Stats
+ENG-Premier League,2425,Fulham,1,17,22,0,0,4,1,17.8,0.27,-3.2,-0.19,57,171,33.3,535,68,23.4,28.7,128,35.9,31.1,234,16,6.8,15,0.88,12.0,/en/squads/fd962109/Fulham-Stats
+ENG-Premier League,2425,Ipswich Town,2,17,32,3,0,2,0,32.0,0.31,0.0,0.0,77,221,34.8,487,99,31.4,30.4,122,55.7,42.5,242,37,15.3,19,1.12,13.8,/en/squads/b74092de/Ipswich-Town-Stats
+ENG-Premier League,2425,Leicester City,2,17,37,1,0,2,2,37.7,0.36,2.7,0.16,78,269,29.0,493,96,40.8,32.4,154,44.2,34.0,278,18,6.5,16,0.94,20.7,/en/squads/a2d435b3/Leicester-City-Stats
+ENG-Premier League,2425,Liverpool,3,16,16,0,0,0,0,18.9,0.32,2.9,0.18,47,154,30.5,477,69,28.1,25.0,102,19.6,22.9,155,7,4.5,24,1.5,17.3,/en/squads/822bd0ba/Liverpool-Stats
+ENG-Premier League,2425,Manchester City,2,17,25,3,0,2,1,25.4,0.38,1.4,0.08,54,121,44.6,545,64,20.0,28.4,77,15.6,22.3,143,5,3.5,30,1.76,17.6,/en/squads/b8fd03ef/Manchester-City-Stats
+ENG-Premier League,2425,Manchester Utd,1,17,22,2,0,8,0,25.4,0.35,3.4,0.2,60,196,30.6,615,82,27.6,28.3,99,26.3,25.8,188,12,6.4,13,0.76,12.1,/en/squads/19538871/Manchester-United-Stats
+ENG-Premier League,2425,Newcastle Utd,2,17,21,0,0,1,1,22.0,0.29,2.0,0.12,39,165,23.6,396,105,25.5,23.6,126,50.8,41.6,232,23,9.9,32,1.88,12.8,/en/squads/b2b47a98/Newcastle-United-Stats
+ENG-Premier League,2425,Nott'ham Forest,1,17,19,1,1,1,0,18.2,0.27,-0.8,-0.05,107,313,34.2,295,30,77.3,45.0,148,57.4,43.0,284,10,3.5,4,0.24,8.1,/en/squads/e4a775cb/Nottingham-Forest-Stats
+ENG-Premier League,2425,Southampton,3,17,36,2,0,6,0,37.5,0.34,1.5,0.09,65,225,28.9,576,89,34.9,30.0,143,16.8,19.9,271,17,6.3,17,1.0,18.0,/en/squads/33c895d4/Southampton-Stats
+ENG-Premier League,2425,Tottenham,2,17,25,2,0,3,0,27.6,0.34,2.6,0.15,14,48,29.2,486,91,8.8,25.3,124,4.0,15.9,212,22,10.4,22,1.29,12.2,/en/squads/361ca564/Tottenham-Hotspur-Stats
+ENG-Premier League,2425,West Ham,2,17,30,2,1,5,1,28.7,0.32,-0.3,-0.02,103,285,36.1,489,77,41.1,36.9,144,58.3,43.7,273,13,4.8,21,1.24,15.1,/en/squads/7c21e445/West-Ham-United-Stats
+ENG-Premier League,2425,Wolves,2,17,40,5,1,8,3,29.1,0.28,-7.9,-0.47,88,278,31.7,484,75,46.1,36.6,113,48.7,37.6,282,19,6.7,27,1.59,13.4,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats

@@ -1,0 +1,23 @@
+,,,players_used,90s,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Ast,xAG,Expected,Expected,KP,1/3,PPA,CrsPA,PrgP,url
+,,,,,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,,,xA,A-xAG,,,,,,
+league,season,team,,,,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,2425,Arsenal,23,17,7279,8719,83.5,121927,38669,3590,3936,91.2,3055,3456,88.4,511,963,53.1,27,22.3,20.8,4.7,192,555,179,31,770,/en/squads/18bb7c10/Arsenal-Stats
+ENG-Premier League,2425,Aston Villa,23,17,6673,8003,83.4,115049,40582,3013,3336,90.3,3012,3370,89.4,506,907,55.8,20,20.1,18.9,-0.1,170,526,146,25,587,/en/squads/8602292d/Aston-Villa-Stats
+ENG-Premier League,2425,Bournemouth,25,17,5403,7122,75.9,100608,39534,2298,2680,85.7,2436,2890,84.3,591,1235,47.9,18,23.1,17.5,-5.1,214,536,145,39,686,/en/squads/4ba7cbea/Bournemouth-Stats
+ENG-Premier League,2425,Brentford,23,17,6295,7987,78.8,114126,42742,2803,3219,87.1,2781,3267,85.1,621,1181,52.6,20,19.0,16.5,1.0,138,500,132,38,643,/en/squads/cd051869/Brentford-Stats
+ENG-Premier League,2425,Brighton,28,17,7332,8773,83.6,124823,43487,3541,3905,90.7,3001,3389,88.6,625,1068,58.5,17,16.8,16.9,0.2,171,543,145,42,734,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2425,Chelsea,24,17,8130,9558,85.1,138870,44572,3695,4032,91.6,3640,4016,90.6,602,1082,55.6,28,26.3,19.7,1.7,200,648,162,30,683,/en/squads/cff3d9bb/Chelsea-Stats
+ENG-Premier League,2425,Crystal Palace,25,17,5561,7305,76.1,100605,37111,2391,2768,86.4,2547,3000,84.9,521,1165,44.7,14,18.6,13.5,-4.6,175,435,113,29,560,/en/squads/47c64c55/Crystal-Palace-Stats
+ENG-Premier League,2425,Everton,24,16,4588,6041,75.9,87134,35172,2042,2356,86.7,1832,2165,84.6,630,1194,52.8,7,12.2,12.0,-5.2,134,414,109,34,432,/en/squads/d3fd31cc/Everton-Stats
+ENG-Premier League,2425,Fulham,25,17,7096,8682,81.7,126004,43106,3134,3508,89.3,3165,3592,88.1,664,1186,56.0,21,18.3,17.2,2.7,186,568,150,41,695,/en/squads/fd962109/Fulham-Stats
+ENG-Premier League,2425,Ipswich Town,28,17,5506,7046,78.1,96027,36520,2584,2906,88.9,2307,2719,84.8,501,1036,48.4,12,12.4,11.5,-0.4,137,425,86,24,450,/en/squads/b74092de/Ipswich-Town-Stats
+ENG-Premier League,2425,Leicester City,25,17,6248,7848,79.6,104025,38819,3059,3419,89.5,2496,2893,86.3,506,1067,47.4,17,13.8,13.6,3.2,123,468,102,28,507,/en/squads/a2d435b3/Leicester-City-Stats
+ENG-Premier League,2425,Liverpool,23,16,7712,9150,84.3,129329,44271,3768,4090,92.1,3193,3584,89.1,570,1071,53.2,28,24.9,20.7,3.1,197,587,168,36,705,/en/squads/822bd0ba/Liverpool-Stats
+ENG-Premier League,2425,Manchester City,22,17,9881,11192,88.3,158421,44074,5196,5589,93.0,3962,4337,91.4,570,889,64.1,20,25.8,27.0,-5.8,242,762,214,33,938,/en/squads/b8fd03ef/Manchester-City-Stats
+ENG-Premier League,2425,Manchester Utd,25,17,7885,9412,83.8,129476,42722,3911,4307,90.8,3211,3600,89.2,544,1039,52.4,17,20.4,16.0,-3.4,184,534,130,26,630,/en/squads/19538871/Manchester-United-Stats
+ENG-Premier League,2425,Newcastle Utd,22,17,6915,8518,81.2,117591,42549,3324,3755,88.5,2986,3391,88.1,512,1046,48.9,22,21.9,19.0,0.1,184,518,152,32,679,/en/squads/b2b47a98/Newcastle-United-Stats
+ENG-Premier League,2425,Nott'ham Forest,23,17,4918,6497,75.7,81902,32524,2576,2929,87.9,1700,2119,80.2,456,1008,45.2,14,14.5,14.4,-0.5,165,407,90,23,481,/en/squads/e4a775cb/Nottingham-Forest-Stats
+ENG-Premier League,2425,Southampton,31,17,7827,9114,85.9,128537,39997,3807,4129,92.2,3378,3732,90.5,469,875,53.6,7,12.9,12.6,-5.9,116,476,110,19,531,/en/squads/33c895d4/Southampton-Stats
+ENG-Premier League,2425,Tottenham,25,17,7904,9442,83.7,129969,44256,3733,4141,90.1,3461,3874,89.3,484,886,54.6,30,25.2,20.8,4.8,192,622,202,37,827,/en/squads/361ca564/Tottenham-Hotspur-Stats
+ENG-Premier League,2425,West Ham,25,17,6136,7774,78.9,109598,39983,2813,3220,87.4,2589,3019,85.8,631,1197,52.7,11,16.2,16.1,-5.2,170,490,129,32,582,/en/squads/7c21e445/West-Ham-United-Stats
+ENG-Premier League,2425,Wolves,24,17,6007,7560,79.5,106626,37243,2749,3122,88.1,2513,2877,87.3,604,1160,52.1,24,15.3,10.7,8.7,139,429,118,30,492,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats
