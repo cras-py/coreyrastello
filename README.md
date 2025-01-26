@@ -1,11 +1,23 @@
-# coreyrastello
-This repository contains code samples and work assets created by Corey Rastello
+# Corey Rastello
+# Business Data Professional
+
+This repository contains code samples and work assets created by me.
 
 ## About Me
-I've been employed at SaaS companies within the Vista Equity Partners and Hg Capital portfolio since 2016.
+I grew up in Michigans Upper Peninsula and attended Michigan Technoligical University, graduating with a degree in Finance in 2011.
+I obtained my MBA from Providence College in 2015 while working full time as an Equipment Manager for the ice hockey teams.
+
+Upon graduation I worked at Bank of America Merrill Lynch for about a year in a Call Center as an Investment Specialist.
+I soon learned the phones were not for me and left in 2016.
+
+Since then I've been employed at SaaS companies within the Vista Equity Partners and Hg Capital portfolios.
 Working in business data roles in FP&A, SalesOps, RevOps, Product, Customer Success and Business Intelligence
 
-I've worked extensively with GTM data in Salesforce since 2016, utilizing various tools to prepare and present data:
+I've worked extensively with GTM data in Salesforce since 2016. 
+I'm quick to learn and understand each organizations Instance of SFDC, as they are oh so unique. 
+
+I utilize various tools to understand, prepare, and present business data:
+
 - Excel:
     - Power Query
     - Power Pivot
@@ -14,6 +26,7 @@ I've worked extensively with GTM data in Salesforce since 2016, utilizing variou
 - python
     - Data extraction via Salesforce API
         - SOQL Queries
+    - EDA with pandas, Data Wrangler
     - Data manipulation with pandas, polars, numpy, etc..
     - Data Visualization with seaborn, plotly, matplotlib
     - Salesforce Record Management via simple-salesforce
@@ -84,6 +97,17 @@ I've worked extensively with GTM data in Salesforce since 2016, utilizing variou
         - Territory Assignment
         - Build Dashboards to assist with QBRs
         - Churn Analyses
+        - Customer and Prospect Database (CapDB)
+            - This essentially analyzes our existing customers to identify which leads to target
+            - Which customers are most likely to churn?
+            - Where are we sticky?
+            - Where are we most profitiable? Highest Win Rates? Quickest Sales Cycle?
+                - Segments
+                - Industries
+                - Product Mix
+                - Lead Source
+                - etc...
+
     - Sales
         - Clean Your Room
             - Stale Pipe
@@ -168,7 +192,35 @@ I've worked extensively with GTM data in Salesforce since 2016, utilizing variou
         
 ### Litera (Hg Capital) - Boston, MA - Jan 2024-Present
 - Senior Data Strategist
-    - 
+    - We support the business reporting and analytics needs for our CS, Finance, Marketing, Sales, and Leadership Team
+    - Began Documenting business logic, created and maintains Data Dictionary
+    - Migrated organization from Tableau to PowerBI
+    - Assited with migration from Azure SQL to Snowflake
+    - Maintains business data pipelines and integrates data from M&A into existing processes
+    - POC for all PowerBI requests
+        - We lead all requests from start to finish acting as our own BAs and PMs
+            - Gather Requirements
+            - Work with Data Engineers to create Dynamic Tables or Views in Snowflake
+            - Create Mockups
+            - Internal QA
+            - UAT with Stakeholders
+            - Lead Enablement Sessions
+            - Create Documentation
+        - Advanced PowerBI Buils include:
+            - Financial Snowball
+            - Pipeline Inspector
+            - Subscription Overlap
+    - POC for ad hoc business requests for "large data" (1M to 100M Rows)
+        - Excel Caps out around the 1M Row Limit
+        - Gather Requirements with Stakeholders to see what they are trying to accomplish.
+        - Create ETLs in Azure/Snowflake to satisfy requirements
+        - Store csv/parquet in data lake or utilize existing EDW in Snowflake where appropriate.
+        - Build Excel Reports using PowerPivot and the DataModel
+        - Also connect directly to Semantic Models in the PowerBI Service
+            - Allows users to work with the underlying data in their dashboards in Excel when needed
+        
+
+
 
 
 
