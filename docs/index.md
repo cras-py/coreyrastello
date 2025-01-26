@@ -5,4 +5,12 @@
 
 ![Financial Snowball](https://github.com/cras-py/coreyrastello/blob/main/visualization/vega-lite/FinancialWaterfall.png?raw=true)
 
+
+### python
+seaborn
+Actual vs Budget Comparison
+![Actual vs Budget Comparison](https://github.com/cras-py/coreyrastello/blob/main/visualization/vega-lite/FinancialWaterfall.png?raw=true)
+
+plotly
+Click a link to see the animated/interactive visual
 [Animated Charts With Plotly - Premier League Stat over Time](https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html)
