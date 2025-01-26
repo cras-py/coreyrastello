@@ -193,8 +193,9 @@ I utilize various tools to understand, prepare, and present business data:
 ### Litera (Hg Capital) - Boston, MA - Jan 2024-Present
 - Senior Data Strategist
     - We support the business reporting and analytics needs for our CS, Finance, Marketing, Sales, and Leadership Team
-    - Began Documenting business logic, created and maintains Data Dictionary
-    - Migrated organization from Tableau to PowerBI
+    - Evaluate and Improve Current Reporting Pipelines
+    - Began Documenting Business Logic
+    - Migrated organization off Tableau to PowerBI
     - Assited with migration from Azure SQL to Snowflake
     - Maintains business data pipelines and integrates data from M&A into existing processes
     - POC for all PowerBI requests
