@@ -5,4 +5,6 @@
 
 ![Financial Snowball](https://github.com/cras-py/coreyrastello/blob/main/visualization/vega-lite/FinancialWaterfall.png?raw=true)
 
-![Animated Charts With Plotly](https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html)
+![Animated Charts With Plotly - Premier League Stat over Time](https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html)
+
+![Animated Charts With Plotly - Premier League Stat over Time](https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html?raw=true)
