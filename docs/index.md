@@ -9,7 +9,7 @@
 ### python
 seaborn
 Actual vs Budget Comparison
-![Actual vs Budget Comparison](https://github.com/cras-py/coreyrastello/blob/main/visualization/vega-lite/FinancialWaterfall.png?raw=true)
+![Actual vs Budget Comparison](https://cras-py.github.io/coreyrastello/ActualsVsBudget.png?raw=true)
 
 plotly
 Click a link to see the animated/interactive visual
