@@ -1,7 +1,8 @@
 # Corey Rastello
 # Business Data Professional
 
-This repository contains code samples and work assets created by me.
+This repository contains code samples and work assets.
+I've been fortunate to have been surrounded by many talented individuals over the years, and learn from them.
 
 ## About Me
 I grew up in Michigans Upper Peninsula and attended Michigan Technoligical University, graduating with a degree in Finance in 2011.
