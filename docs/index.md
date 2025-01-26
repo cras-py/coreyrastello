@@ -7,10 +7,10 @@
 
 
 ### python
-seaborn
-Actual vs Budget Comparison
+[seaborn](https://seaborn.pydata.org/) <br />
+Actual vs Budget Comparison <br />
 ![Actual vs Budget Comparison](https://cras-py.github.io/coreyrastello/ActualsVsBudget.png?raw=true)
 
-plotly
-Click a link to see the animated/interactive visual
+[plotly express](https://plotly.com/python/plotly-express/) <br />
+Click a link to see the animated/interactive visual<br />
 [Animated Charts With Plotly - Premier League Stat over Time](https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html)
