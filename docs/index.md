@@ -1,3 +1,8 @@
+---
+layout: default
+title: Visualizations
+---
+
 # Visualization
 ## Visualizations created using various different tools
 ### vega-lite
