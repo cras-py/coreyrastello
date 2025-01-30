@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            color: white;
+            text-decoration: none;
+            padding: 14px 20px;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            color: white;
+        }
+        h2, h3 {
+            color: #333;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        ul li {
+            margin: 5px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px auto;
+        }
+        /* Added styles for image responsiveness and centering */
+        .image-container { /* added class to wrap the image */
+          text-align: center; /* center the image horizontally */
+        }
+
+        .image-container img {
+            max-width: 90%; /* Adjust as needed */
+            height: auto;
+        }
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Visualizations</h1> </header>
+    <nav>
+        <a href="index.html">Home</a>
+    </nav>
+    <main>
+
+        <h2>Visualizations created using various different tools</h2>
+
+        <h2>Vega-Lite</h2>
+        <a href="https://vega.github.io/vega-lite/">Vega-Lite</a> is a high-level grammar of interactive graphics. It provides a concise, declarative JSON syntax to create an expressive range of visualizations for data analysis and presentation. <br />
+
+        I've used Vega-Lite inside PowerBI to create custom visuals as needed. <br /> 
+
+        <h3>ARR Snowball</h3>
+        <p>A useful tool to see how well (or poorly) you're retaining and growing your customer base.</p>
+        <div class="image-container"> <img src="https://github.com/cras-py/coreyrastello/blob/main/visualization/vega-lite/FinancialWaterfall.png?raw=true" alt="Financial Snowball"> </div>
+        <br />
+
+        <h3>Pipeline Waterfall</h3>
+        <p>Analyze how your pipeline changes over time to uncover trends and insights and help improve forecasting.</p>
+        <div class="image-container"> <img src="https://cras-py.github.io/coreyrastello/PipelineMovement.png?raw=true" alt="Pipeline Waterfall"> </div>
+
+        <h2>Python</h2>
+        <a href="https://seaborn.pydata.org/">seaborn</a> is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. <br />
+
+        <h3>Actual vs Budget Comparison</h3>
+        <p>This visual quickly displays attainment to targets, clearly highlighting over and underperformers, along with their magnitude.</p>
+        <div class="image-container"> <img src="https://cras-py.github.io/coreyrastello/ActualsVsBudget.png?raw=true" alt="Actual vs Budget Comparison"> </div>
+
+        <p><a href="https://plotly.com/python/plotly-express/">Plotly Express</a></p>
+
+        <p>Plotly is a neat library to create animated and interactive visuals. <br />
+        Click a link to see them in action. <br /></p>
+
+        <p><a href="https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html">Animated Charts With Plotly - Premier League Stat over Time</a></p>
+
+    </main>
+</body>
+</html>
