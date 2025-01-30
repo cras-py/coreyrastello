@@ -24,6 +24,8 @@ This visual quickly displays attainment to targets, clearly highlighting over an
 ![Actual vs Budget Comparison](https://cras-py.github.io/coreyrastello/ActualsVsBudget.png?raw=true)
 
 [Plotly Express](https://plotly.com/python/plotly-express/) <br />
+
 Plotly is a neat library to create animated and interactive visuals. <br />
 Click a link to see them in action. <br />
+
 [Animated Charts With Plotly - Premier League Stat over Time](https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html)
