@@ -5,6 +5,7 @@ title: Visualizations
 # Visualizations created using various different tools
 ## Vega-Lite
 [Vega-Lite](https://vega.github.io/vega-lite/) is a high-level grammar of interactive graphics. It provides a concise, declarative JSON syntax to create an expressive range of visualizations for data analysis and presentation. <br />
+
 I've used Vega-Lite inside PowerBI to create custom visuals as needed. <br /> 
 
 ### ARR Snowball <br />
