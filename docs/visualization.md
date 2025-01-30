@@ -16,11 +16,13 @@ Analyze how your pipeline changes over time to uncover trends and insights and h
 ![Pipeline Waterfall](https://cras-py.github.io/coreyrastello/PipelineMovement.png?raw=true)
 
 
-## python
-[seaborn](https://seaborn.pydata.org/) <br />
+## Python
+[seaborn](https://seaborn.pydata.org/) is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. <br />
 ### Actual vs Budget Comparison <br />
+This visual quickly displays attainment to targets, clearly highlighting over and underperformers, along with their magnitude. <br />
 ![Actual vs Budget Comparison](https://cras-py.github.io/coreyrastello/ActualsVsBudget.png?raw=true)
 
-[plotly express](https://plotly.com/python/plotly-express/) <br />
-Click a link to see the animated/interactive visual<br />
+[Plotly Express](https://plotly.com/python/plotly-express/) <br />
+Plotly is a neat library to create animated and interactive visuals. <br />
+Click a link to see them in action. <br />
 [Animated Charts With Plotly - Premier League Stat over Time](https://cras-py.github.io/coreyrastello/premierleague_xG_2324_Season_Player_animated.html)
