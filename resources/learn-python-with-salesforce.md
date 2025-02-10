@@ -78,13 +78,13 @@ df1.head()
 ```
 By Calling `df1.head()` we can display the first 5 rows of the report
 
-|    | Product Name   | Product Code   | Product Category   | Product Group   | Line of Business   | Case Safe ID       |
-|---:|:---------------|:---------------|:-------------------|:----------------|:-------------------|:-------------------|
-|  0 | Core Software  | SW-C           | Software           | Core            | Core               | 01t4X0000012345678 |
-|  1 | Pro Software   | SW-P           | Software           | Pro             | Pro                | 01t4X0000012345679 |
-|  2 | Implementation | IMP            | Services           | Services        | Services           | 01t4X0000012345680 |
-|  3 | Hardware A     | HW-A           | Hardware           | Terminals       | Hardware           | 01t4X0000012345681 |
-|  4 | Hardware B     | HW-B           | Hardware           | Printers        | Hardware           | 01t4X0000012345682 |
+|    |   Owner Role | Opportunity Owner   | Account Name    | Opportunity Name             | Stage             | Fiscal Period   |    Amount |   Expected Revenue |   Probability (%) |   Age | Close Date   | Created Date   |   Next Step | Lead Source       | Type                  | Industry   | Forecast Category   |
+|---:|-------------:|:--------------------|:----------------|:-----------------------------|:------------------|:----------------|----------:|-------------------:|------------------:|------:|:-------------|:---------------|------------:|:------------------|:----------------------|:-----------|:--------------------|
+|  0 |          nan | Irene McCoy         | Morton128 Inc   | Opportunity for Lewis1718    | Closed Won        | Q4-2023         | 1415700.0 |          1415700.0 |               100 |   0.0 | 10/2/2023    | 2/10/2024      |         nan | Employee Referral | New Business          | Energy     | Closed              |
+|  1 |          nan | Evelyn Williamson   | Cobb132 Inc     | Opportunity for Freeman746   | Closed Won        | Q4-2023         | 1411200.0 |          1411200.0 |               100 |   0.0 | 11/8/2023    | 2/10/2024      |         nan | Word of mouth     | New Business          | Energy     | Closed              |
+|  2 |          nan | Kelly Frazier       | Nichols134 Inc  | Opportunity for Klein1486    | Qualification     | Q3-2024         |  431073.0 |            43107.3 |                10 | 366.0 | 7/31/2024    | 2/10/2024      |         nan | Employee Referral | New Business          | Energy     | Pipeline            |
+|  3 |          nan | Eric Sanchez        | Thompson136 Inc | Opportunity for Duncan1725   | Qualification     | Q3-2024         |  847450.0 |            84745.0 |                10 | 366.0 | 7/28/2024    | 2/10/2024      |         nan | Public Relations  | Existing Business     | Energy     | Pipeline            |
+|  4 |          nan | Doroth Gardner      | Ramirez137 Inc  | Opportunity for Reynolds1553 | Value Proposition | Q2-2024         | 3464115.0 |          1732057.5 |                50 | 366.0 | 5/25/2024    | 2/10/2024      |         nan | Advertisement     | New Business / Add-on | Energy     | Pipeline            |
 
 This is fine, but frequently you'll want to write a query to retrieve the data.
 
@@ -171,13 +171,13 @@ df = sf_api_query(soql,dateList=['CloseDate','CreatedDate'],tz='America/Chicago'
 ```
 Again, calling `df.head()` will diplay the first 5 rows of the dataframe
 
-|    | Id                 | Name                                        | CloseDate           | CreatedDate         |   Account.Name |
-|---:|:-------------------|:--------------------------------------------|:--------------------|:--------------------|---------------:|
-|  0 | 0064x0000000000000 | Upsell AB                                   | 2024-03-13 00:00:00 | 2022-03-14 12:52:17 |            ABC |
-|  1 | 0064x0000000000001 | Renewal Opportunity ABC - Jan 2025          | 2025-01-01 00:00:00 | 2024-08-18 13:26:37 |            ABC |
-|  2 | 0064x0000000000002 | X-Sell A                                    | 2069-10-27 00:00:00 | 2024-10-24 07:31:48 |            A12 |
-|  3 | 0064x0000000000003 | General Company 1 Upsell ABCD               | 2024-11-25 00:00:00 | 2024-11-18 14:11:49 |            DEF |
-|  4 | 0064x0000000000004 | Customer ABC New Logo Pro Software Hardware | 2025-03-28 00:00:00 | 2025-01-08 09:38:18 |            GHI |
+|    | Id                 | Name                       | CloseDate           | CreatedDate         | Account.Name    |
+|---:|:-------------------|:---------------------------|:--------------------|:--------------------|:----------------|
+|  0 | 006a50000004MCnAAM | Opportunity for Higgins293 | 2024-03-07 00:00:00 | 2024-02-10 02:26:48 | Stone555 Inc    |
+|  1 | 006a50000004MowAAE | Opportunity for Parker1715 | 2024-03-08 00:00:00 | 2024-02-10 02:26:48 | Aguilar870 Inc  |
+|  2 | 006a50000004MEjAAM | Opportunity for Malone696  | 2024-03-10 00:00:00 | 2024-02-10 02:26:48 | Fletcher429 Inc |
+|  3 | 006a50000004MZTAA2 | Opportunity for Murphy1963 | 2024-03-12 00:00:00 | 2024-02-10 02:26:48 | Rivera969 Inc   |
+|  4 | 006a50000004MmwAAE | Opportunity for Newton532  | 2024-03-13 00:00:00 | 2024-02-10 02:26:48 | Fletcher234 Inc |
 
 Notice here we have the API Name of the field as columns now.
 Using a SOQL Query will return the API Name, not the Label.
