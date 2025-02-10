@@ -159,3 +159,8 @@ df = sf_api_query(soql,dateList=['CloseDate','CreatedDate'],tz='America/Chicago'
 
 ## Working With Data
 
+| Name    |   Age | City      |
+|:--------|------:|:----------|
+| Alice   |    25 | New York  |
+| Bob     |    30 | London    |
+| Charlie |    28 | Paris     |
