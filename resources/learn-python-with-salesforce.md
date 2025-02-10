@@ -179,4 +179,15 @@ Again, calling `df.head()` will diplay the first 5 rows of the dataframe
 |  3 | 0064x0000000000003 | General Company 1 Upsell ABCD               | 2024-11-25 00:00:00 | 2024-11-18 14:11:49 |            DEF |
 |  4 | 0064x0000000000004 | Customer ABC New Logo Pro Software Hardware | 2025-03-28 00:00:00 | 2025-01-08 09:38:18 |            GHI |
 
+Notice here we have the API Name of the field as columns now.
+Using a SOQL Query will return the API Name, not the Label.
+We'll cover how to rename columns later.
+
+Also notice I didn't have to write any joins to retrieve data from the Account Table, even though I queried the Opportunity.
+Salesforce already knows how the relationships are structured.
+
+You'll never write a join in SOQL.
+
+We'll cover joing later we'll be using `pd.merge()` to join dataframes together.
+
 ## Working With Data
