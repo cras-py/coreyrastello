@@ -35,7 +35,8 @@ sf = Salesforce(
 ```
 
 We can verify we've connected to out instance by entering `print(sf.sf_instance)`
-It will return your instance, eg: `crastellopy-dev-ed.develop.my.salesforce.com`
+It will return your instance, eg: 
+`crastellopy-dev-ed.develop.my.salesforce.com`
 
 ## Getting Data
 
@@ -73,10 +74,22 @@ try:
 except ValueError as e:  # Separator not found
     print(f"Error: {e}")  # Print the error message
     df1 = pd.DataFrame()
+df1.head()
 ```
+By Calling `df1.head()` we can display the first 5 rows of the report
 
-Or we can write SOQL (Salesforce Object Query Language).
-[SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm) is a SQL like language.
+|    | Product Name   | Product Code   | Product Category   | Product Group   | Line of Business   | Case Safe ID       |
+|---:|:---------------|:---------------|:-------------------|:----------------|:-------------------|:-------------------|
+|  0 | Core Software  | SW-C           | Software           | Core            | Core               | 01t4X0000012345678 |
+|  1 | Pro Software   | SW-P           | Software           | Pro             | Pro                | 01t4X0000012345679 |
+|  2 | Implementation | IMP            | Services           | Services        | Services           | 01t4X0000012345680 |
+|  3 | Hardware A     | HW-A           | Hardware           | Terminals       | Hardware           | 01t4X0000012345681 |
+|  4 | Hardware B     | HW-B           | Hardware           | Printers        | Hardware           | 01t4X0000012345682 |
+
+This is fine, but frequently you'll want to write a query to retrieve the data.
+
+We can do this via SOQL (Salesforce Object Query Language).
+[SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm) is a SQL like language specific to Salesforce instances.
 
 We've also created a [UDF](https://www.geeksforgeeks.org/python-user-defined-functions/) (User Defined Function) in the below code to execute the query.
 A UDF is a set of statements that take inputs, do some specific computation, and produce output. The idea is to put some commonly or repeatedly done tasks together and make a function so that instead of writing the same code again and again for different inputs, we can call the function.
@@ -156,11 +169,14 @@ soql = '''
 
 df = sf_api_query(soql,dateList=['CloseDate','CreatedDate'],tz='America/Chicago')
 ```
+Again, calling `df.head()` will diplay the first 5 rows of the dataframe
+
+|    | Id                 | Name                                        | CloseDate           | CreatedDate         |   Account.Name |
+|---:|:-------------------|:--------------------------------------------|:--------------------|:--------------------|---------------:|
+|  0 | 0064x0000000000000 | Upsell AB                                   | 2024-03-13 00:00:00 | 2022-03-14 12:52:17 |            ABC |
+|  1 | 0064x0000000000001 | Renewal Opportunity ABC - Jan 2025          | 2025-01-01 00:00:00 | 2024-08-18 13:26:37 |            ABC |
+|  2 | 0064x0000000000002 | X-Sell A                                    | 2069-10-27 00:00:00 | 2024-10-24 07:31:48 |            A12 |
+|  3 | 0064x0000000000003 | General Company 1 Upsell ABCD               | 2024-11-25 00:00:00 | 2024-11-18 14:11:49 |            DEF |
+|  4 | 0064x0000000000004 | Customer ABC New Logo Pro Software Hardware | 2025-03-28 00:00:00 | 2025-01-08 09:38:18 |            GHI |
 
 ## Working With Data
-
-| Name    |   Age | City      |
-|:--------|------:|:----------|
-| Alice   |    25 | New York  |
-| Bob     |    30 | London    |
-| Charlie |    28 | Paris     |
