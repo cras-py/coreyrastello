@@ -9,14 +9,14 @@ title: About Me
 I grew up in Michigans Upper Peninsula and attended Michigan Technoligical University, graduating with a degree in Finance in 2011.
 I obtained my MBA from Providence College in 2015 while working full time as an Equipment Manager for the ice hockey teams.
 
-Upon graduation I worked at Bank of America Merrill Lynch for about a year in a Call Center as an Investment Specialist.
+Upon graduation I worked at Bank of America Merrill Lynch for about a year in a call center as an Investment Specialist.
 I soon learned the phones were not for me and left in 2016.
 
 Since then I've been employed at SaaS companies within the Vista Equity Partners and Hg Capital portfolios.
 Working in business data roles in FP&A, SalesOps, RevOps, Product, Customer Success and Business Intelligence
 
 I've worked extensively with GTM data in Salesforce since 2016. 
-I'm quick to learn and understand each organizations Instance of SFDC, as they are oh so unique. 
+I'm quick to learn and understand each organizations instance of SFDC, as they are oh so unique. 
 
 I utilize various tools to understand, prepare, and present business data:
 
