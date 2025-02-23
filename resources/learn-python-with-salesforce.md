@@ -164,6 +164,7 @@ soql = '''
     ,Account.Name 
     ,Amount
     ,ForecastCategory
+    ,Probability
     FROM Opportunity 
     WHERE IsClosed = false
 '''
@@ -172,13 +173,13 @@ df = sf_api_query(soql,dateList=['CloseDate','CreatedDate'],tz='America/Chicago'
 ```
 Again, calling `df.head()` will diplay the first 5 rows of the dataframe
 
-|    | Id                 | Name                          | CloseDate           | CreatedDate         |    Amount | ForecastCategory   | Account.Name    |
-|---:|:-------------------|:------------------------------|:--------------------|:--------------------|----------:|:-------------------|:----------------|
-|  0 | 006a50000004MBeAAM | Opportunity for Conner5       | 2024-08-28 00:00:00 | 2024-02-10 02:26:48 |   32400.0 | Pipeline           | Phillips552 Inc |
-|  1 | 006a50000004MBfAAM | Opportunity for Chandler133   | 2024-06-06 00:00:00 | 2024-02-10 02:26:48 |  754640.0 | BestCase           | Gibson62 Inc    |
-|  2 | 006a50000004MBlAAM | Opportunity for McLaughlin130 | 2024-03-18 00:00:00 | 2024-02-10 02:26:48 | 1249000.0 | Forecast           | Owens441 Inc    |
-|  3 | 006a50000004MBoAAM | Opportunity for Barnes141     | 2024-06-30 00:00:00 | 2024-02-10 02:26:48 |  363400.0 | Pipeline           | Conner513 Inc   |
-|  4 | 006a50000004MBsAAM | Opportunity for Edwards146    | 2024-06-18 00:00:00 | 2024-02-10 02:26:48 | 4212140.0 | BestCase           | Harris13 Inc    |
+|    | Id                 | Name                          | CloseDate           | CreatedDate         |    Amount | ForecastCategory   |   Probability | Account.Name    |
+|---:|:-------------------|:------------------------------|:--------------------|:--------------------|----------:|:-------------------|--------------:|:----------------|
+|  0 | 006a50000004MBeAAM | Opportunity for Conner5       | 2024-08-28 00:00:00 | 2024-02-10 02:26:48 |   32400.0 | Pipeline           |          10.0 | Phillips552 Inc |
+|  1 | 006a50000004MBfAAM | Opportunity for Chandler133   | 2024-06-06 00:00:00 | 2024-02-10 02:26:48 |  754640.0 | BestCase           |          70.0 | Gibson62 Inc    |
+|  2 | 006a50000004MBlAAM | Opportunity for McLaughlin130 | 2024-03-18 00:00:00 | 2024-02-10 02:26:48 | 1249000.0 | Forecast           |          90.0 | Owens441 Inc    |
+|  3 | 006a50000004MBoAAM | Opportunity for Barnes141     | 2024-06-30 00:00:00 | 2024-02-10 02:26:48 |  363400.0 | Pipeline           |          10.0 | Conner513 Inc   |
+|  4 | 006a50000004MBsAAM | Opportunity for Edwards146    | 2024-06-18 00:00:00 | 2024-02-10 02:26:48 | 4212140.0 | BestCase           |          70.0 | Harris13 Inc    |
 
 Notice here we have the API Name of the field as columns now.
 Using a SOQL Query will return the API Name, not the Label.
