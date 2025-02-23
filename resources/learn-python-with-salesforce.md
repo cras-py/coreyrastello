@@ -162,22 +162,23 @@ soql = '''
     ,CloseDate
     ,CreatedDate
     ,Account.Name 
+    ,Amount
+    ,ForecastCategory
     FROM Opportunity 
-    WHERE IsClosed = false 
-    LIMIT 20
+    WHERE IsClosed = false
 '''
 
 df = sf_api_query(soql,dateList=['CloseDate','CreatedDate'],tz='America/Chicago')
 ```
 Again, calling `df.head()` will diplay the first 5 rows of the dataframe
 
-|    | Id                 | Name                       | CloseDate           | CreatedDate         | Account.Name    |
-|---:|:-------------------|:---------------------------|:--------------------|:--------------------|:----------------|
-|  0 | 006a50000004MCnAAM | Opportunity for Higgins293 | 2024-03-07 00:00:00 | 2024-02-10 02:26:48 | Stone555 Inc    |
-|  1 | 006a50000004MowAAE | Opportunity for Parker1715 | 2024-03-08 00:00:00 | 2024-02-10 02:26:48 | Aguilar870 Inc  |
-|  2 | 006a50000004MEjAAM | Opportunity for Malone696  | 2024-03-10 00:00:00 | 2024-02-10 02:26:48 | Fletcher429 Inc |
-|  3 | 006a50000004MZTAA2 | Opportunity for Murphy1963 | 2024-03-12 00:00:00 | 2024-02-10 02:26:48 | Rivera969 Inc   |
-|  4 | 006a50000004MmwAAE | Opportunity for Newton532  | 2024-03-13 00:00:00 | 2024-02-10 02:26:48 | Fletcher234 Inc |
+|    | Id                 | Name                          | CloseDate           | CreatedDate         |    Amount | ForecastCategory   | Account.Name    |
+|---:|:-------------------|:------------------------------|:--------------------|:--------------------|----------:|:-------------------|:----------------|
+|  0 | 006a50000004MBeAAM | Opportunity for Conner5       | 2024-08-28 00:00:00 | 2024-02-10 02:26:48 |   32400.0 | Pipeline           | Phillips552 Inc |
+|  1 | 006a50000004MBfAAM | Opportunity for Chandler133   | 2024-06-06 00:00:00 | 2024-02-10 02:26:48 |  754640.0 | BestCase           | Gibson62 Inc    |
+|  2 | 006a50000004MBlAAM | Opportunity for McLaughlin130 | 2024-03-18 00:00:00 | 2024-02-10 02:26:48 | 1249000.0 | Forecast           | Owens441 Inc    |
+|  3 | 006a50000004MBoAAM | Opportunity for Barnes141     | 2024-06-30 00:00:00 | 2024-02-10 02:26:48 |  363400.0 | Pipeline           | Conner513 Inc   |
+|  4 | 006a50000004MBsAAM | Opportunity for Edwards146    | 2024-06-18 00:00:00 | 2024-02-10 02:26:48 | 4212140.0 | BestCase           | Harris13 Inc    |
 
 Notice here we have the API Name of the field as columns now.
 Using a SOQL Query will return the API Name, not the Label.
@@ -188,6 +189,6 @@ Salesforce already knows how the relationships are structured.
 
 You'll never write a join in SOQL.
 
-We'll cover joing later we'll be using `pd.merge()` to join dataframes together.
+We'll cover joing later, we'll be using `pd.merge()` to join dataframes together.
 
 ## Working With Data
