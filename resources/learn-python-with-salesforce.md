@@ -189,7 +189,3 @@ Also notice I didn't have to write any joins to retrieve data from the Account T
 Salesforce already knows how the relationships are structured.
 
 You'll never write a join in SOQL.
-
-We'll cover joing later, we'll be using `pd.merge()` to join dataframes together.
-
-## Working With Data
